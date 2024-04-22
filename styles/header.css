@@ -1,0 +1,29 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url("../images/background.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 30px 30px 30px 30px;
+}
+
+.header {
+    width: 100%;
+    object-fit: fill;
+}
+
+.footer {
+    width: 100%;
+    object-fit: fill;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-bar{
+    font-size: large;
+    text-align: center;
+}
