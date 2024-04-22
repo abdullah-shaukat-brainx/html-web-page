@@ -1,0 +1,18 @@
+.image-gallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.image{
+    width: 300px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    object-fit: contain;
+    margin-right: 10px;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
